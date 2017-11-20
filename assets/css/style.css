@@ -1,0 +1,17 @@
+h1 {
+	size:20px;
+	font-family:"Allura";
+}	
+
+p {
+	font-family:"Allura";
+	font-size: 25px;
+}
+
+body {
+    background-color:gray;
+}
+
+img {
+	border:1px solid;
+}
